@@ -6,3 +6,11 @@ Teclado abnt
 ```
 setxkbmap -model abnt2 -layout br
 ```
+Yin-Yang (systemd)
+```
+sudo systemctl set-default multi-user.target
+```
+```
+sudo systemctl set-default graphical.target
+```
+
